@@ -1,0 +1,9 @@
+Hanyang
+2
+sarah 96 90 80
+Minsu 86 60 90
+---
+Seoul
+2
+Minjee 30 50 60
+Ye 20 90 60

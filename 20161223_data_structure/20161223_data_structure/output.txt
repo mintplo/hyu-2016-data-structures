@@ -1,0 +1,5 @@
+Name	Liter	Math	Sic	Ave
+sarah	096	090	080	88.67
+minsu	055	070	076	67.00
+nara	088	070	096	84.67
+Ave	79.67	76.67	84.00	80.11
