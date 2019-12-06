@@ -34,3 +34,15 @@ This Lecture uses C Language and Microsoft Visual Studio
 | 2017-01-06#1 | Graph Impl. |
 | 2017-01-06#2 | Graph Metrics Impl. |
 | 2017-01-10 | Dajikstra Heap Impl. |
+
+&nbsp;
+
+&nbsp;
+--------
+
+The source code of *mintplo* is primarily distributed under the terms
+of the [GNU Affero General Public License v3.0] or any later version. See
+[COPYRIGHT] for details.
+
+[GNU Affero General Public License v3.0]: LICENSE
+[COPYRIGHT]: COPYRIGHT
